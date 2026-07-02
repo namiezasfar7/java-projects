@@ -7,6 +7,7 @@ java programming from beginner to advanced level.
 java-projects/
 - beginner/
     - atm-pin-system/
+    - quiz-game/
 - intermediate/
 - advanced/
 
@@ -14,6 +15,7 @@ java-projects/
 
 ### 🟢 Beginner
 - ATM PIN System : An ATM PIN System written in Java
+- Quiz Game : A mini quiz game written in Java
 
 ### 🟡 Intermediate
 
