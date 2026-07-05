@@ -10,6 +10,8 @@ java-projects/
     - quiz-game/
     - simple-banking-system/
     - mini-restaurant-billing-system/
+    - mad-libs-game/
+    - number-guessing-game/
 - intermediate/
 - advanced/
 
@@ -20,6 +22,8 @@ java-projects/
 - Quiz Game : A mini quiz game written in Java
 - Simple Banking System : A simple banking system that tracks balance, deposit and withdraw amounts
 - Mini Restaurant Billing System : A mini restaurant billing system that tracks total number of items and total bill
+- Mad Libs Game : A fun mad libs game created in java
+- Number Guessing Game : A number guessing game that generates a random number between 1 and 100
 
 ### 🟡 Intermediate
 
@@ -36,7 +40,7 @@ java-projects/
 ## 📈 Skills Demonstrated
 - Variables and data types
 - Conditions and loops
-- Functions
+- Random numbers
 
 ## 👤 Author
 Namiez Asfar
