@@ -12,6 +12,8 @@ java-projects/
     - mini-restaurant-billing-system/
     - mad-libs-game/
     - number-guessing-game/
+    - fizz-buzz/
+    - student-result-system/
 - intermediate/
 - advanced/
 
@@ -24,6 +26,8 @@ java-projects/
 - Mini Restaurant Billing System : A mini restaurant billing system that tracks total number of items and total bill
 - Mad Libs Game : A fun mad libs game created in java
 - Number Guessing Game : A number guessing game that generates a random number between 1 and 100
+- Fizz Buzz : Prints FIZZ for multiples of 3, BUZZ for multiples of 5 and FIZZBUZZ for both multiples 3 and 5
+- Student Result System : A student result system that calculates total, average and finds grade
 
 ### 🟡 Intermediate
 
