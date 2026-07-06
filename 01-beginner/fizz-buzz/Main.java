@@ -7,7 +7,7 @@ public class Main {
         while(count < 100){
             //CHECK REMAINDER
             rem03 = (count + 1) % 3;
-            rem04 = (count + 1) % 5;
+            rem05 = (count + 1) % 5;
 
             //CHECK CONDITION
             if(rem03 == 0 && rem05 == 0){
