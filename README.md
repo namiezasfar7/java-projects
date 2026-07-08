@@ -14,6 +14,7 @@ java-projects/
     - number-guessing-game/
     - fizz-buzz/
     - student-result-system/
+    - hypotenuse-calculator/
 - intermediate/
 - advanced/
 
@@ -28,6 +29,7 @@ java-projects/
 - Number Guessing Game : A number guessing game that generates a random number between 1 and 100
 - Fizz Buzz : Prints FIZZ for multiples of 3, BUZZ for multiples of 5 and FIZZBUZZ for both multiples 3 and 5
 - Student Result System : A student result system that calculates total, average and finds grade
+- Hypotenuse Calculator : Find the length of side c using java
 
 ### 🟡 Intermediate
 
@@ -45,6 +47,7 @@ java-projects/
 - Variables and data types
 - Conditions and loops
 - Random numbers
+- Math functions
 
 ## 👤 Author
 Namiez Asfar
