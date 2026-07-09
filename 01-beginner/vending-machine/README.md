@@ -53,7 +53,7 @@ Bill Amount            :   Rs. 1000.00
 Discount               :   Rs. 0.00
 
 Final Bill Amount      :   Rs. 1000.00
-=======================================
+=======================================\
 
 ## 👤 Author
 Namiez Asfar
