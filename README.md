@@ -15,6 +15,7 @@ java-projects/
     - fizz-buzz/
     - student-result-system/
     - hypotenuse-calculator/
+    - vending-machine/
 - intermediate/
 - advanced/
 
@@ -30,6 +31,7 @@ java-projects/
 - Fizz Buzz : Prints FIZZ for multiples of 3, BUZZ for multiples of 5 and FIZZBUZZ for both multiples 3 and 5
 - Student Result System : A student result system that calculates total, average and finds grade
 - Hypotenuse Calculator : Find the length of side c using java
+- Vending Machine : A vending machine simulated in java
 
 ### 🟡 Intermediate
 
@@ -48,6 +50,7 @@ java-projects/
 - Conditions and loops
 - Random numbers
 - Math functions
+- Enhanced switches
 
 ## 👤 Author
 Namiez Asfar

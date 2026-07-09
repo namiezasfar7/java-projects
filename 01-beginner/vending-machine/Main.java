@@ -9,7 +9,7 @@ public class Main {
         int choice = 0, quantity = 0, totalItems = 0;
         double price = 0.0, total = 0.0, discount = 0.0, finalAmt = 0.0;
 
-        System.out.println("====VENDING MACHINE====");
+        System.out.println("============VENDING MACHINE============");
 
         //LOOP UNTIL CONDITION IS TRUE
         while(choice != 4){
@@ -18,18 +18,18 @@ public class Main {
             quantity = 0;
 
             //DISPLAY MENU
-            System.out.println("\n1. Coke     250");
-            System.out.println("2. Pepsi    300");
-            System.out.println("3. Water    100");
-            System.out.println("4. Finish\n");
+            System.out.println("\n1. Coke-------------------------Rs. 250");
+            System.out.println("2. Pepsi------------------------Rs. 300");
+            System.out.println("3. Water------------------------Rs. 100");
+            System.out.println("4. Finish------------------------------\n");
 
             //GET USER INPUT
-            System.out.print("Enter Choice : ");
+            System.out.print("Enter Choice    :       ");
             choice = input.nextInt();
 
             //CHECK CHOICE
             if(choice == 1 || choice == 2 || choice == 3){
-                System.out.print("Enter Quantity : ");
+                System.out.print("Enter Quantity  :       ");
                 quantity = input.nextInt();
 
                 //CHECK VALIDITY
@@ -48,7 +48,7 @@ public class Main {
                 case 3 ->
                     price = 100;
                 case 4 ->
-                    System.out.println("\nThank You For Using This System!");
+                    System.out.println("\nThank You For Using This System!\n");
                 default ->
                     System.out.println("\nInvalid Choice! Try Again!");
             }
@@ -73,12 +73,12 @@ public class Main {
         }
 
         //PRINT OUTPUT
-        System.out.println("===============INVOICE===============\n");
+        System.out.println("================INVOICE================\n");
         System.out.println("Total Items Purchased  :   " + totalItems + " Item(s)");
         System.out.printf("\nBill Amount            :   Rs. %.2f\n", total);
         System.out.printf("Discount               :   Rs. %.2f\n", discount);
         System.out.printf("\nFinal Bill Amount      :   Rs. %.2f\n", finalAmt);
-        System.out.println("=====================================");
+        System.out.println("=======================================");
 
         //CLOSE SCANNER
         input.close();
