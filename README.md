@@ -16,6 +16,7 @@ java-projects/
     - student-result-system/
     - hypotenuse-calculator/
     - vending-machine/
+    - password-strength-checker/
 - intermediate/
 - advanced/
 
@@ -32,6 +33,7 @@ java-projects/
 - Student Result System : A student result system that calculates total, average and finds grade
 - Hypotenuse Calculator : Find the length of side c using java
 - Vending Machine : A vending machine simulated in java
+- Password Strength Checker : A password strength checker that gives feedback
 
 ### 🟡 Intermediate
 
@@ -51,6 +53,7 @@ java-projects/
 - Random numbers
 - Math functions
 - Enhanced switches
+- String methods
 
 ## 👤 Author
 Namiez Asfar
