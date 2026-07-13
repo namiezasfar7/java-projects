@@ -17,6 +17,7 @@ java-projects/
     - hypotenuse-calculator/
     - vending-machine/
     - password-strength-checker/
+    - rock-paper-scissors-game/
 - intermediate/
 - advanced/
 
@@ -34,6 +35,7 @@ java-projects/
 - Hypotenuse Calculator : Find the length of side c using java
 - Vending Machine : A vending machine simulated in java
 - Password Strength Checker : A password strength checker that gives feedback
+- Rock Paper Scissors Game : A rock paper scissors game written in java
 
 ### 🟡 Intermediate
 
