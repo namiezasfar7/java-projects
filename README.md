@@ -18,6 +18,7 @@ java-projects/
     - vending-machine/
     - password-strength-checker/
     - rock-paper-scissors-game/
+    - employee-payroll-system/
 - intermediate/
 - advanced/
 
@@ -36,6 +37,7 @@ java-projects/
 - Vending Machine : A vending machine simulated in java
 - Password Strength Checker : A password strength checker that gives feedback
 - Rock Paper Scissors Game : A rock paper scissors game written in java
+- Employee Payroll System : An employee payroll system that calculates NET salary
 
 ### 🟡 Intermediate
 
@@ -56,6 +58,8 @@ java-projects/
 - Math functions
 - Enhanced switches
 - String methods
+- Setters and getters
+- Classes and objects
 
 ## 👤 Author
 Namiez Asfar
