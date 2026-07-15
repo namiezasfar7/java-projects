@@ -19,6 +19,7 @@ java-projects/
     - password-strength-checker/
     - rock-paper-scissors-game/
     - employee-payroll-system/
+    - dice-roller-program/
 - intermediate/
 - advanced/
 
@@ -38,6 +39,7 @@ java-projects/
 - Password Strength Checker : A password strength checker that gives feedback
 - Rock Paper Scissors Game : A rock paper scissors game written in java
 - Employee Payroll System : An employee payroll system that calculates NET salary
+- Dice Roller Program : A dice roller program written in java
 
 ### 🟡 Intermediate
 
