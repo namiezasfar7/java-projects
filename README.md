@@ -44,6 +44,7 @@ java-projects/
 │   ├── hypotenuse-calculator/
 │   ├── mad-libs-game/
 │   ├── mini-restaurant-billing-system/
+│   ├── multiplication-table-generator/
 │   ├── number-guessing-game/
 │   ├── password-guesser-game-v1/
 │   ├── password-strength-checker/
@@ -75,6 +76,7 @@ java-projects/
 | Hypotenuse Calculator | Calculates the hypotenuse of a right-angled triangle. |
 | Mad Libs Game | Generates a fun story using user-provided words. |
 | Mini Restaurant Billing System | Calculates customer bills based on selected menu items. |
+| Multiplication Table Generator | Multiplication Table Generator that generates the output of any number for a specified number of multiples. |
 | Number Guessing Game | Lets the user guess a randomly generated number. |
 | Password Guesser Game v1 | Allows users to guess a password with progressive hints. |
 | Password Strength Checker | Evaluates password strength based on predefined rules. |
