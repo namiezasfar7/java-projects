@@ -38,6 +38,7 @@ Each project includes its own source code and a dedicated **README.md** explaini
 java-projects/
 │── beginner/
 │   ├── atm-pin-system/
+│   ├── book-discount-calculator/
 │   ├── dice-roller-program/
 │   ├── employee-payroll-system/
 │   ├── fizz-buzz/
@@ -70,6 +71,7 @@ java-projects/
 | Project | Description |
 |---------|-------------|
 | ATM PIN System | Simulates an ATM login system using PIN verification. |
+| Book Discount Calculator | Calculates discount prices for novels. |
 | Dice Roller Program | Simulates rolling one or more dice using random number generation. |
 | Employee Payroll System | Calculates employee net salaries and payroll statistics. |
 | Fizz Buzz | Prints **Fizz**, **Buzz**, or **FizzBuzz** based on divisibility rules. |
@@ -137,6 +139,7 @@ This repository demonstrates:
 - Object-Oriented Programming (OOP)
 - Classes and Objects
 - Encapsulation using getters and setters
+- Inheritance
 - Problem-solving techniques
 - Console application development
 - Clean code organization and documentation
