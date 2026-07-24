@@ -40,6 +40,7 @@ java-projects/
 │   ├── atm-pin-system/
 │   ├── book-discount-calculator/
 │   ├── dice-roller-program/
+│   ├── doctor-salary-calculator/
 │   ├── employee-payroll-system/
 │   ├── fizz-buzz/
 │   ├── hypotenuse-calculator/
@@ -73,6 +74,7 @@ java-projects/
 | ATM PIN System | Simulates an ATM login system using PIN verification. |
 | Book Discount Calculator | Calculates discount prices for novels. |
 | Dice Roller Program | Simulates rolling one or more dice using random number generation. |
+| Doctor Salary Calculator | Calculates discounts for surgeons. |
 | Employee Payroll System | Calculates employee net salaries and payroll statistics. |
 | Fizz Buzz | Prints **Fizz**, **Buzz**, or **FizzBuzz** based on divisibility rules. |
 | Hypotenuse Calculator | Calculates the hypotenuse of a right-angled triangle. |
