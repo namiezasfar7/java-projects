@@ -53,6 +53,7 @@ java-projects/
 │   ├── quiz-game/
 │   ├── rock-paper-scissors-game/
 │   ├── simple-banking-system/
+│   ├── slot-machine/
 │   ├── student-result-system/
 │   └── vending-machine/
 │
@@ -87,6 +88,7 @@ java-projects/
 | Quiz Game | A console-based multiple-choice quiz application. |
 | Rock Paper Scissors Game | Classic Rock-Paper-Scissors game against the computer. |
 | Simple Banking System | Simulates deposits, withdrawals, and balance inquiries. |
+| Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
 | Student Result System | Calculates total marks, average, and grade. |
 | Vending Machine | Simulates purchasing products from a vending machine. |
 
