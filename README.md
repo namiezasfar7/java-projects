@@ -55,6 +55,7 @@ java-projects/
 │   ├── simple-banking-system/
 │   ├── slot-machine/
 │   ├── student-result-system/
+│   ├── vehicle-inheritance-system/
 │   └── vending-machine/
 │
 │── intermediate/
@@ -90,6 +91,7 @@ java-projects/
 | Simple Banking System | Simulates deposits, withdrawals, and balance inquiries. |
 | Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
 | Student Result System | Calculates total marks, average, and grade. |
+| Vehicle Inheritance System | A Vehicle Inheritance System that demonstrates the concepts of **multilevel inheritance**. |
 | Vending Machine | Simulates purchasing products from a vending machine. |
 
 ---
