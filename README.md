@@ -26,6 +26,9 @@ Each project includes its own source code and a dedicated **README.md** explaini
 - Loops
 - Conditional Statements
 - Methods
+- Method Overloading
+- Method Overriding
+- Varargs
 - Arrays *(Future Projects)*
 - File Handling *(Future Projects)*
 - Exception Handling *(Future Projects)*
