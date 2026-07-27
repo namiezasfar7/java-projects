@@ -13,6 +13,12 @@ public class ElectricCar extends Car {
     }
 
     //DECLARE METHODS
+    @Override
+    void move(){
+
+        System.out.println(this.brand + " is moving at " + this.speed + " km/h with Fuel Type " + fuelType + " and Battery Level " + batteryLevel);
+    }
+
     void charge(){
 
         System.out.println(this.brand + " is charging. Battery : " + batteryLevel + "%");
