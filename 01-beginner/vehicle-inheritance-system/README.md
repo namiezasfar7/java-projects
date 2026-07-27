@@ -10,8 +10,9 @@ A simple Java-based Vehicle Inheritance System that demonstrates the concepts of
 - Extends the `Vehicle` class using a `Car` subclass
 - Extends the `Car` class using an `ElectricCar` subclass
 - Demonstrates multilevel inheritance
+- Demonstrates method overriding using the `move()` method
 - Uses constructors to initialize object attributes
-- Reuses parent class methods using inheritance
+- Uses the `super` keyword for constructor chaining
 - Displays vehicle movement, refueling, and charging details
 
 ---
@@ -23,6 +24,7 @@ A simple Java-based Vehicle Inheritance System that demonstrates the concepts of
 - Object-Oriented Programming (OOP)
 - Inheritance
 - Multilevel Inheritance
+- Method Overriding
 - Constructors
 - `super` Keyword
 - Methods
@@ -74,10 +76,14 @@ java Main
    - Brand
    - Speed
    - Movement behavior
-4. Additional features are added based on the vehicle type:
+4. Each class customizes the `move()` method:
+   - `Vehicle` displays the basic movement information.
+   - `Car` overrides `move()` to include the fuel type.
+   - `ElectricCar` overrides `move()` again to include both the fuel type and battery level.
+5. Additional features are provided based on the vehicle type:
    - Cars can refuel.
    - Electric cars can charge.
-5. The program displays the details of each vehicle.
+6. The program displays the details of each vehicle.
 
 ---
 
@@ -94,7 +100,7 @@ Ford is moving at 200 km/h
 ### Scenario 2 - Car Object
 
 ```text
-Toyota is moving at 150 km/h
+Toyota is moving at 150 km/h with Fuel Type Diesel
 Toyota is refueling with Diesel
 ```
 
@@ -103,7 +109,7 @@ Toyota is refueling with Diesel
 ### Scenario 3 - Electric Car Object
 
 ```text
-Tesla is moving at 110 km/h
+Tesla is moving at 110 km/h with Fuel Type Battery and Battery Level 50
 Tesla is refueling with Battery
 Tesla is charging. Battery : 50%
 ```
@@ -125,17 +131,19 @@ Tesla is charging. Battery : 50%
 ### Vehicle Class
 - Brand
 - Speed
-- Move method
+- `move()` method
 
 ### Car Class
-- Inherits Vehicle properties
+- Inherits `Vehicle`
 - Adds fuel type
-- Adds refuel method
+- Overrides `move()`
+- Adds `refuel()` method
 
 ### ElectricCar Class
-- Inherits Car properties
+- Inherits `Car`
 - Adds battery level
-- Adds charge method
+- Overrides `move()`
+- Adds `charge()` method
 
 ---
 
@@ -147,8 +155,10 @@ This project demonstrates:
 - Classes and Objects
 - Inheritance
 - Multilevel Inheritance
+- Method Overriding
 - Constructor Chaining using `super()`
 - Code Reusability
+- Polymorphism through Overridden Methods
 - Creating and Calling Methods
 - Object Relationships
 - Console Application Development
