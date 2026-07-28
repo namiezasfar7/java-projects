@@ -51,6 +51,7 @@ java-projects/
 │   ├── mini-restaurant-billing-system/
 │   ├── multiplication-table-generator/
 │   ├── number-guessing-game/
+│   ├── parent-child-inheritance-system/
 │   ├── password-guesser-game-v1/
 │   ├── password-strength-checker/
 │   ├── quiz-game/
@@ -87,6 +88,7 @@ java-projects/
 | Mini Restaurant Billing System | Calculates customer bills based on selected menu items. |
 | Multiplication Table Generator | Multiplication Table Generator that generates the output of any number for a specified number of multiples. |
 | Number Guessing Game | Lets the user guess a randomly generated number. |
+| Parent Child Inheritance System | A Parent-Child Inheritance System that demonstrates the concepts of **inheritance**. |
 | Password Guesser Game v1 | Allows users to guess a password with progressive hints. |
 | Password Strength Checker | Evaluates password strength based on predefined rules. |
 | Quiz Game | A console-based multiple-choice quiz application. |
