@@ -14,6 +14,12 @@ public class ElectricCar extends Car {
 
     //DECLARE METHODS
     @Override
+    public String toString(){
+
+        return "Vehicle{ Brand : " + brand + ", Speed : " + speed + ", Fuel Type : " + fuelType + ", Battery Level : " + batteryLevel + "}";
+    }
+
+    @Override
     void move(){
 
         System.out.println(this.brand + " is moving at " + this.speed + " km/h with Fuel Type " + fuelType + " and Battery Level " + batteryLevel);

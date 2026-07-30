@@ -17,6 +17,7 @@ A simple Java-based Vehicle Polymorphism System that demonstrates the concepts o
 - Accesses subclass-specific methods (`refuel()` and `charge()`)
 - Uses constructors to initialize object attributes
 - Uses the `super` keyword for constructor chaining
+- Uses the `toString` method for returning default strings
 
 ---
 
@@ -34,6 +35,7 @@ A simple Java-based Vehicle Polymorphism System that demonstrates the concepts o
 - Constructors
 - `super` Keyword
 - Arrays
+- `toString` Method
 - Enhanced For Loop
 - Console Output
 
@@ -152,6 +154,7 @@ This project demonstrates:
 - Safe Type Checking using `instanceof`
 - Arrays of Objects
 - Enhanced For Loops
+- To String
 - Code Reusability
 - Console Application Development
 
