@@ -60,6 +60,7 @@ java-projects/
 │   ├── slot-machine/
 │   ├── student-result-system/
 │   ├── vehicle-inheritance-system/
+│   ├── vehicle-polymorphism-system/
 │   └── vending-machine/
 │
 │── intermediate/
@@ -97,6 +98,7 @@ java-projects/
 | Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
 | Student Result System | Calculates total marks, average, and grade. |
 | Vehicle Inheritance System | A Vehicle Inheritance System that demonstrates the concepts of **multilevel inheritance**. |
+| Vehicle Polymorphism System | A Vehicle Polymorshism System that demonstrates the concepts of **multilevel inheritance** & **runtime - polymorphism**. |
 | Vending Machine | Simulates purchasing products from a vending machine. |
 
 ---
@@ -151,6 +153,7 @@ This repository demonstrates:
 - Classes and Objects
 - Encapsulation using getters and setters
 - Inheritance
+- Polymorphism
 - Problem-solving techniques
 - Console application development
 - Clean code organization and documentation
