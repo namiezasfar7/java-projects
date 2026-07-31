@@ -59,6 +59,7 @@ java-projects/
 │   ├── simple-banking-system/
 │   ├── slot-machine/
 │   ├── student-result-system/
+│   ├── vehicle-abstraction-system/
 │   ├── vehicle-inheritance-system/
 │   ├── vehicle-polymorphism-system/
 │   └── vending-machine/
@@ -97,6 +98,7 @@ java-projects/
 | Simple Banking System | Simulates deposits, withdrawals, and balance inquiries. |
 | Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
 | Student Result System | Calculates total marks, average, and grade. |
+| Vehicle Abstraction System | A Vehicle Abstraction System that demonstrates the concepts of **abstraction**, **inheritance**, **polymorphism**, **method overriding**, and **abstract classes**. |
 | Vehicle Inheritance System | A Vehicle Inheritance System that demonstrates the concepts of **multilevel inheritance**. |
 | Vehicle Polymorphism System | A Vehicle Polymorshism System that demonstrates the concepts of **multilevel inheritance** & **runtime - polymorphism**. |
 | Vending Machine | Simulates purchasing products from a vending machine. |
@@ -151,6 +153,7 @@ This repository demonstrates:
 - Arrays
 - Object-Oriented Programming (OOP)
 - Classes and Objects
+- Abstraction
 - Encapsulation using getters and setters
 - Inheritance
 - Polymorphism
