@@ -20,6 +20,10 @@ Each project includes its own source code and a dedicated **README.md** explaini
 
 - Java
 - Object-Oriented Programming (OOP)
+- Abstract Classes
+- Interfaces
+- Inheritance
+- Polymorphism
 - Scanner Class
 - Random Class
 - String Handling
@@ -29,7 +33,8 @@ Each project includes its own source code and a dedicated **README.md** explaini
 - Method Overloading
 - Method Overriding
 - Varargs
-- Arrays *(Future Projects)*
+- Arrays
+- Math Library (`Math.PI`)
 - File Handling *(Future Projects)*
 - Exception Handling *(Future Projects)*
 
@@ -56,6 +61,7 @@ java-projects/
 │   ├── password-strength-checker/
 │   ├── quiz-game/
 │   ├── rock-paper-scissors-game/
+│   ├── shape-interface-system/
 │   ├── simple-banking-system/
 │   ├── slot-machine/
 │   ├── student-result-system/
@@ -95,6 +101,7 @@ java-projects/
 | Password Strength Checker | Evaluates password strength based on predefined rules. |
 | Quiz Game | A console-based multiple-choice quiz application. |
 | Rock Paper Scissors Game | Classic Rock-Paper-Scissors game against the computer. |
+| Shape Interface System | An Object-Oriented Programming project that demonstrates the use of **abstract classes**, **interfaces**, **inheritance**, **polymorphism**, and **method overriding**. |
 | Simple Banking System | Simulates deposits, withdrawals, and balance inquiries. |
 | Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
 | Student Result System | Calculates total marks, average, and grade. |
@@ -148,6 +155,7 @@ This repository demonstrates:
 - Conditional statements
 - Loops and iteration
 - Methods and modular programming
+- Method Overriding
 - String manipulation
 - Random number generation
 - Arrays
@@ -157,6 +165,13 @@ This repository demonstrates:
 - Encapsulation using getters and setters
 - Inheritance
 - Polymorphism
+- Runtime Polymorphism
+- Arrays of Objects
+- Dynamic Method Dispatch
+- Interfaces
+- Multiple Interface Implementation
+- Mathematical Calculations using `Math.PI`
+- Overriding `toString()`
 - Problem-solving techniques
 - Console application development
 - Clean code organization and documentation
