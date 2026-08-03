@@ -64,6 +64,7 @@ java-projects/
 │   ├── shape-interface-system/
 │   ├── simple-banking-system/
 │   ├── slot-machine/
+│   ├── student-grading-system/
 │   ├── student-result-system/
 │   ├── vehicle-abstraction-system/
 │   ├── vehicle-inheritance-system/
@@ -104,6 +105,7 @@ java-projects/
 | Shape Interface System | An Object-Oriented Programming project that demonstrates the use of **abstract classes**, **interfaces**, **inheritance**, **polymorphism**, and **method overriding**. |
 | Simple Banking System | Simulates deposits, withdrawals, and balance inquiries. |
 | Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
+| Student Grading System | A Student Grading System project that demonstrates the use of **inheritance**, **method overriding** & **runtime polymorphism**. |
 | Student Result System | Calculates total marks, average, and grade. |
 | Vehicle Abstraction System | A Vehicle Abstraction System that demonstrates the concepts of **abstraction**, **inheritance**, **polymorphism**, **method overriding**, and **abstract classes**. |
 | Vehicle Inheritance System | A Vehicle Inheritance System that demonstrates the concepts of **multilevel inheritance**. |
