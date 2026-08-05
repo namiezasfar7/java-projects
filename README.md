@@ -49,7 +49,8 @@ java-projects/
 │   ├── book-discount-calculator/
 │   ├── dice-roller-program/
 │   ├── doctor-salary-calculator/
-│   ├── employee-payroll-system/
+│   ├── employee-payroll-system-v1/
+│   ├── employee-payroll-system-v2/
 │   ├── fizz-buzz/
 │   ├── hypotenuse-calculator/
 │   ├── mad-libs-game/
@@ -90,7 +91,8 @@ java-projects/
 | Book Discount Calculator | Calculates discount prices for novels. |
 | Dice Roller Program | Simulates rolling one or more dice using random number generation. |
 | Doctor Salary Calculator | Calculates discounts for surgeons. |
-| Employee Payroll System | Calculates employee net salaries and payroll statistics. |
+| Employee Payroll System v1 | Calculates employee net salaries and payroll statistics. |
+| Employee Payroll System v2 | An Object-Oriented Programming project that demonstrates the use of **abstract classes**, **inheritance**, **runtime polymorphism**, and **method overriding**. |
 | Fizz Buzz | Prints **Fizz**, **Buzz**, or **FizzBuzz** based on divisibility rules. |
 | Hypotenuse Calculator | Calculates the hypotenuse of a right-angled triangle. |
 | Mad Libs Game | Generates a fun story using user-provided words. |
