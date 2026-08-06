@@ -35,6 +35,7 @@ Each project includes its own source code and a dedicated **README.md** explaini
 - Varargs
 - Arrays
 - Math Library (`Math.PI`)
+- Composition
 - File Handling *(Future Projects)*
 - Exception Handling *(Future Projects)*
 
@@ -60,6 +61,7 @@ java-projects/
 │   ├── parent-child-inheritance-system/
 │   ├── password-guesser-game-v1/
 │   ├── password-strength-checker/
+│   ├── person-address-management-system/
 │   ├── quiz-game/
 │   ├── rock-paper-scissors-game/
 │   ├── shape-interface-system/
@@ -102,6 +104,7 @@ java-projects/
 | Parent Child Inheritance System | A Parent-Child Inheritance System that demonstrates the concepts of **inheritance**. |
 | Password Guesser Game v1 | Allows users to guess a password with progressive hints. |
 | Password Strength Checker | Evaluates password strength based on predefined rules. |
+| Person Address Management System | An Object-Oriented Programming project that demonstrates the concept of **composition**. |
 | Quiz Game | A console-based multiple-choice quiz application. |
 | Rock Paper Scissors Game | Classic Rock-Paper-Scissors game against the computer. |
 | Shape Interface System | An Object-Oriented Programming project that demonstrates the use of **abstract classes**, **interfaces**, **inheritance**, **polymorphism**, and **method overriding**. |
@@ -176,6 +179,7 @@ This repository demonstrates:
 - Multiple Interface Implementation
 - Mathematical Calculations using `Math.PI`
 - Overriding `toString()`
+- Composition
 - Problem-solving techniques
 - Console application development
 - Clean code organization and documentation
