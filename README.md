@@ -36,6 +36,7 @@ Each project includes its own source code and a dedicated **README.md** explaini
 - Arrays
 - Math Library (`Math.PI`)
 - Composition
+- Aggregation
 - File Handling *(Future Projects)*
 - Exception Handling *(Future Projects)*
 
@@ -67,6 +68,7 @@ java-projects/
 │   ├── shape-interface-system/
 │   ├── simple-banking-system/
 │   ├── slot-machine/
+│   ├── student-batch-management-system/
 │   ├── student-grading-system/
 │   ├── student-result-system/
 │   ├── vehicle-abstraction-system/
@@ -110,6 +112,7 @@ java-projects/
 | Shape Interface System | An Object-Oriented Programming project that demonstrates the use of **abstract classes**, **interfaces**, **inheritance**, **polymorphism**, and **method overriding**. |
 | Simple Banking System | Simulates deposits, withdrawals, and balance inquiries. |
 | Slot Machine | Simulates a three-symbol slot machine, and win payouts based on matching symbol combinations. |
+| Student Batch Management System | An Object-Oriented Programming project that demonstrates the concept of **aggregation**. |
 | Student Grading System | A Student Grading System project that demonstrates the use of **inheritance**, **method overriding** & **runtime polymorphism**. |
 | Student Result System | Calculates total marks, average, and grade. |
 | Vehicle Abstraction System | A Vehicle Abstraction System that demonstrates the concepts of **abstraction**, **inheritance**, **polymorphism**, **method overriding**, and **abstract classes**. |
@@ -180,6 +183,7 @@ This repository demonstrates:
 - Mathematical Calculations using `Math.PI`
 - Overriding `toString()`
 - Composition
+- Aggregation
 - Problem-solving techniques
 - Console application development
 - Clean code organization and documentation
