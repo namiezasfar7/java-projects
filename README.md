@@ -9,7 +9,7 @@ A curated collection of Java programming projects built while learning Java, pro
 This repository contains Java projects categorized by difficulty level:
 
 - 🟢 **Beginner** – Core Java fundamentals and console applications
-- 🟡 **Intermediate** – Object-Oriented Programming and more complex logic *(Coming Soon)*
+- 🟡 **Intermediate** – Object-Oriented Programming and more complex logicS
 - 🟠 **Advanced** – Advanced Java concepts and larger applications *(Coming Soon)*
 
 Each project includes its own source code and a dedicated **README.md** explaining its features, usage, and learning objectives.
@@ -37,6 +37,8 @@ Each project includes its own source code and a dedicated **README.md** explaini
 - Math Library (`Math.PI`)
 - Composition
 - Aggregation
+- Java Swing (`JFrame`)
+- AWT (`Color`)
 - File Handling *(Future Projects)*
 - Exception Handling *(Future Projects)*
 
@@ -78,6 +80,7 @@ java-projects/
 │   └── vending-machine/
 │
 │── intermediate/
+│   └── test-app-01/
 │
 │── advanced/
 │
@@ -126,7 +129,9 @@ java-projects/
 
 ### 🟡 Intermediate
 
-*Projects will be added as I continue learning Java.*
+| Project | Description |
+|---------|-------------|
+| Test App 01 | A simple Java GUI application built using **Java Swing**. |
 
 ---
 
@@ -190,20 +195,28 @@ This repository demonstrates:
 - Console application development
 - Clean code organization and documentation
 
+- Java GUI Development
+- Java Swing
+- Creating a `JFrame`
+- Window Configuration
+- AWT `Color`
+- Basic GUI Application Structure
+- Using Swing Components
+
 ---
 
 ## 🚀 Future Plans
 
 As I continue my Java learning journey, this repository will expand to include:
 
-- Intermediate Java projects
+- Advanced Java projects
 - Advanced Object-Oriented Programming
 - File Handling
 - Exception Handling
 - Collections Framework
 - Multithreading
 - JDBC and Database Connectivity
-- GUI Applications (JavaFX/Swing)
+- GUI Applications (JavaFX)
 - Data Structures and Algorithms
 - Mini real-world applications
 
