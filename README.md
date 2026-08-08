@@ -71,6 +71,7 @@ java-projects/
 │   ├── student-batch-management-system/
 │   ├── student-grading-system/
 │   ├── student-result-system/
+│   ├── university-management-system/
 │   ├── vehicle-abstraction-system/
 │   ├── vehicle-inheritance-system/
 │   ├── vehicle-polymorphism-system/
@@ -115,6 +116,7 @@ java-projects/
 | Student Batch Management System | An Object-Oriented Programming project that demonstrates the concept of **aggregation**. |
 | Student Grading System | A Student Grading System project that demonstrates the use of **inheritance**, **method overriding** & **runtime polymorphism**. |
 | Student Result System | Calculates total marks, average, and grade. |
+| University Course System | A simple Java-based Course Fee Management System that demonstrates **abstraction**, **inheritance**, **polymorphism**, and **method overriding**. |
 | Vehicle Abstraction System | A Vehicle Abstraction System that demonstrates the concepts of **abstraction**, **inheritance**, **polymorphism**, **method overriding**, and **abstract classes**. |
 | Vehicle Inheritance System | A Vehicle Inheritance System that demonstrates the concepts of **multilevel inheritance**. |
 | Vehicle Polymorphism System | A Vehicle Polymorshism System that demonstrates the concepts of **multilevel inheritance** & **runtime - polymorphism**. |
